@@ -12,16 +12,16 @@ Currently Student in MCA with Cybersecurity as a specialization from Amrita Vish
 
 - Programming languages: Python, C++, PowerShell ,
 - Security Frameworks: OWASP, SANS
-- Security Tools: Kali Linux, Metasploit, Wireshark
+- Security Tools: ParrotSec, Metasploit, Wireshark, Beef, Burpsuite, Ettercap
 - Compliance Standards: PCI-DSS, HIPAA
 - Artificial Intelligence (AI) • Machine Learning • Cloud Computing • Cybersecurity • Network Security •
-  Google Cloud Platform (GCP) • Linux • Problem Solving
+  Google Cloud Platform (GCP) • Linux 
 
 
 
 ## Education
 - Amrita Vishwa Vidyapeetham Master of Computer Applications - MCA, Cyber Security    Jun 2021 - Jun 2023
--Mahatma Gandhi University Bachelor of computer applications, Computer Science        Jun 2017 - Jun2020
+- Mahatma Gandhi University Bachelor of computer applications, Computer Science        Jun 2017 - Jun2020
 
 ##  Hobbies
 Reading, Travelling, Gaming, Researc
