@@ -1,12 +1,11 @@
-# Alphonse Joseph
+## Alphonse Joseph
 
-Seeking an entry-level position to begin my career in the field of Cybersecurity in a high-level professional
-environment and to secure a challenging position in a reputable organization to expand my learning, knowledge,
-and skills and to make use of my skills to achieve the goals of a company that focuses on customer satisfaction
-and customer experience.
-Skilled in Customer Service, Communication, Presentations, Strategy, Networking, and Cybersecurity. Strong
-information technology professional with a Bachelor of computer application from Mahatma Gandhi University.
-Currently Student in MCA with Cybersecurity as a specialization from Amrita Vishwa Vidyapeetham
+I am a student pursuing a master's degree in cybersecurity and I am excited to be a part of the rapidly growing technology industry. My passion lies in discovering new cybersecurity threats and developing advanced solutions to combat them. My education has provided me with a solid understanding of network security, incident response, and cryptography. I am eager to use my knowledge and skills to make a positive impact in the industry.
+
+I am actively seeking opportunities to gain hands-on experience through internships or projects. I am open to any opportunities in the field of cybersecurity, particularly in areas such as penetration testing, threat intelligence, or incident response.
+
+Please feel free to connect with me on LinkedIn to discuss any potential opportunities or to network with me in the field of cybersecurity. I am open to any advice and mentorship to help me grow in this field.
+
 
 ## Skills
 
