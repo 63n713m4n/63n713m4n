@@ -23,7 +23,7 @@ Please feel free to connect with me on LinkedIn to discuss any potential opportu
 - Mahatma Gandhi University Bachelor of computer applications, Computer Science        Jun 2017 - Jun2020
 
 ##  Hobbies
-Reading, Travelling, Gaming, Researc
+Reading, Travelling, Gaming, Research
 
 ## Certifications & Licenses
 
