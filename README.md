@@ -1,4 +1,4 @@
-## Alphonse Joseph
+
 
 I am a student pursuing a master's degree in cybersecurity and I am excited to be a part of the rapidly growing technology industry. My passion lies in discovering new cybersecurity threats and developing advanced solutions to combat them. My education has provided me with a solid understanding of network security, incident response, and cryptography. I am eager to use my knowledge and skills to make a positive impact in the industry.
 
@@ -19,9 +19,7 @@ Please feel free to connect with me on LinkedIn to discuss any potential opportu
 
 
 ## Education
-- Amrita Vishwa Vidyapeetham Master of Computer Applications - MCA, Cyber Security    Jun 2021 - Jun 2023
-- Mahatma Gandhi University Bachelor of computer applications, Computer Science        Jun 2017 - Jun2020
-
+MCA, Cyber Security 
 ##  Hobbies
 Reading, Travelling, Gaming, Research
 
