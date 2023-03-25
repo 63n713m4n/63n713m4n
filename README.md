@@ -1,4 +1,4 @@
-## #💫 About Me:
+## 💫 About Me:
 
 
 I am a student pursuing a master's degree in cybersecurity and I am excited to be a part of the rapidly growing technology industry. My passion lies in discovering new cybersecurity threats and developing advanced solutions to combat them. My education has provided me with a solid understanding of network security, incident response, and cryptography. I am eager to use my knowledge and skills to make a positive impact in the industry.
