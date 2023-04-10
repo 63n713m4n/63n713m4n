@@ -8,7 +8,7 @@ I am actively seeking opportunities to gain hands-on experience through internsh
 Please feel free to connect with me on LinkedIn to discuss any potential opportunities or to network with me in the field of cybersecurity. I am open to any advice and mentorship to help me grow in this field.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/alphonse-joseph) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Al_FonZ_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alphonse-joseph) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Al_FonZ_)
 
 
 ## Skills
