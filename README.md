@@ -43,8 +43,8 @@ Reading, Travelling, Gaming, Research
 
 ## Contact
 
-- Email:   63n713m4n@proton.me
-- LinkedIn:www.linkedin.com/in/alphonse-joseph-551890199
+- Email:   alphonse.joseph@proton.me
+-
 
 
 
