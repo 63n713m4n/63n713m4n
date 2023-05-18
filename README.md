@@ -15,7 +15,7 @@ Please feel free to connect with me on LinkedIn to discuss any potential opportu
 
 - Programming languages: Python, C++
 - Security Frameworks: OWASP, SANS
-- Security Tools: ParrotSec, Metasploit, Wireshark, Beef, Burpsuite, Ettercap
+- Security Tools: ParrotSec, Metasploit, Wireshark, Beef, Burpsuite, Ettercap, Fiddler, Splunk
 - Compliance Standards: PCI-DSS, HIPAA
 - Artificial Intelligence (AI) • Machine Learning • Cloud Computing • Cybersecurity • Network Security •
   Google Cloud Platform (GCP) • Linux 
@@ -40,14 +40,9 @@ Reading, Travelling, Gaming, Research
 
 - Email:   alphonse.joseph@proton.me
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=63n713m4n&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
