@@ -13,7 +13,7 @@ Please feel free to connect with me on LinkedIn to discuss any potential opportu
 
 ## Skills
 
-- Programming languages: Python, C++
+- Programming languages: Python,Java
 - Security Frameworks: OWASP, SANS
 - Security Tools: ParrotSec, Metasploit, Wireshark, Beef, Burpsuite, Ettercap, Fiddler, Splunk
 - Compliance Standards: PCI-DSS, HIPAA
