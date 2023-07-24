@@ -10,6 +10,9 @@ Please feel free to connect with me on LinkedIn to discuss any potential opportu
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alphonse-joseph) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Al_FonZ_)
 
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRhb3Q3ZHN0aTQ4MGZseHVpY3d0eHBrMWV0N2NlMXJzZjNoMmx6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EaEWuES5SDSpcnOlRt/giphy.gif" alt="Bt">
+
+
 
 ## Skills
 
