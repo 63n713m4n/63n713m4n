@@ -5,7 +5,7 @@ I am a student pursuing a master's degree in cybersecurity and I am excited to b
 
 I am actively seeking opportunities to gain hands-on experience through internships or projects. I am open to any opportunities in the field of cybersecurity, particularly in areas such as penetration testing, threat intelligence, or incident response.
 
-Please feel free to connect with me on LinkedIn to discuss any potential opportunities or to network with me in the field of cybersecurity. I am open to any advice and mentorship to help me grow in this field.
+Please feel free to connect with me on LinkedIn to discuss any potential opportunities or to network with me in the field of cybersecurity. I am open to  advice and mentorship to help me grow in this field.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alphonse-joseph) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Al_FonZ_)
