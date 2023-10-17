@@ -14,22 +14,11 @@ Please feel free to connect with me on LinkedIn to discuss any potential opportu
 
 
 
-## Skills
-
-- Programming languages: Python,Java
-- Security Frameworks: OWASP, SANS
-- Security Tools: ParrotSec, Metasploit, Wireshark, Beef, Burpsuite, Ettercap, Fiddler, Splunk
-- Compliance Standards: PCI-DSS, HIPAA
-- Artificial Intelligence (AI) • Machine Learning • Cloud Computing • Cybersecurity • Network Security •
-  Google Cloud Platform (GCP) • Linux 
-
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 
-## Education
-MCA, Cyber Security 
 ##  Hobbies
 Reading, Travelling, Gaming, Research
 
