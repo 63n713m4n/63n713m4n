@@ -1,107 +1,150 @@
 <div align="center">
  
-# Alphonse Joseph — 63n713m4n
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6D4AFF&height=200&section=header&text=Alphonse%20Joseph&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MSc%20Cybersecurity%20%C2%B7%20University%20West%2C%20Sweden%20%F0%9F%87%B8%F0%9F%87%AA&descAlignY=60&descSize=18" />
  
-**MSc Cybersecurity · University West, Sweden 🇸🇪**
+<br/>
  
-*Security lab builder. I break things to understand them, then build better defenses.*
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-63n713m4n.github.io-6D4AFF?style=for-the-badge)](https://63n713m4n.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alphonse-joseph)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@Al_FonZ_)
+[![Email](https://img.shields.io/badge/ProtonMail-Contact-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:alphonse.joseph@proton.me)
  
-[![Portfolio](https://img.shields.io/badge/Portfolio-63n713m4n.github.io-6D4AFF?style=flat-square&logo=github&logoColor=white)](https://63n713m4n.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alphonse-joseph)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/@Al_FonZ_)
-[![Email](https://img.shields.io/badge/ProtonMail-alphonse.joseph%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:alphonse.joseph@proton.me)
-[![Status](https://img.shields.io/badge/Status-Seeking%20Pentesting%20%2F%20SOC%20Internship-success?style=flat-square)](https://63n713m4n.github.io/#contact)
+<br/>
+ 
+![Visitor Count](https://komarev.com/ghpvc/?username=63n713m4n&color=6D4AFF&style=for-the-badge&label=Profile+Views)
+[![Status](https://img.shields.io/badge/🟢%20Open%20To-Pentesting%20%2F%20SOC%20Internship-success?style=for-the-badge)](https://63n713m4n.github.io/#contact)
  
 </div>
  
 ---
  
-## About
+## 🧠 About Me
  
-My philosophy: **you can't defend what you don't understand.** So I build real infrastructure, break it deliberately, analyze the failures, and build better.
- 
-My Raspberry Pi 5 runs a full enterprise-grade security stack — honeypots, SIEM, IDS/IPS, and live threat intelligence — all on $100 hardware. Right now I'm writing my MSc thesis benchmarking open-source SOAR tools against real attack data from a T-Pot honeypot + FortiGate NGFW.
- 
-I'm actively looking for opportunities in **penetration testing**, **threat intelligence**, and **SOC/security research**.
+```python
+class Alphonse:
+    name     = "Alphonse Joseph"
+    alias    = "63n713m4n"
+    location = "Sweden 🇸🇪"
+    degree   = "MSc Cybersecurity — University West"
+    thesis   = "Comparative Evaluation of Open-Source SOAR Tools (2026)"
+    lab      = "Raspberry Pi 5 · Enterprise Security Stack · Running Live"
+    
+    philosophy = "You can't defend what you don't understand."
+    
+    currently = [
+        "Writing MSc thesis benchmarking Shuffle vs Wazuh/Cortex/TheHive",
+        "Generating real attack data via T-Pot honeypot + FortiGate 50G NGFW",
+        "Building automated SOAR playbooks + Python metrics pipeline",
+    ]
+    
+    looking_for = ["Penetration Testing", "Threat Intelligence", "SOC / Security Research"]
+```
  
 ---
  
-## 🔬 MSc Thesis — In Progress (2026)
+## 🔬 MSc Thesis — In Progress
  
-**Comparative Evaluation of Open-Source SOAR Tools**
+> **Comparative Evaluation of Open-Source SOAR Tools**
+>
+> Benchmarking **Shuffle** vs **Wazuh/Cortex/TheHive**, integrated with a FortiGate 50G NGFW and T-Pot honeypot to capture real attacker behaviour. Building automated playbooks and a Python metrics pipeline — the first empirical benchmark of open-source SOAR tools.
  
-Benchmarking [Shuffle](https://shuffler.io/) vs. Wazuh/Cortex/TheHive, integrated with a FortiGate 50G NGFW and T-Pot honeypot to generate real attack data. Building automated playbooks and a Python metrics pipeline — the first empirical benchmark of open-source SOAR tools.
+---
+ 
+## 🛡️ Skills
+ 
+<div align="center">
+ 
+**Offensive Security**
+ 
+[![Offensive](https://skillicons.dev/icons?i=kali,linux,bash,python)](https://skillicons.dev)
+ 
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square&logoColor=white)
+![Nmap](https://img.shields.io/badge/nmap-2A2A2A?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-2A2A2A?style=flat-square)
+![sqlmap](https://img.shields.io/badge/sqlmap-2A2A2A?style=flat-square)
+![aircrack-ng](https://img.shields.io/badge/aircrack--ng-2A2A2A?style=flat-square)
+![Flipper Zero](https://img.shields.io/badge/Flipper%20Zero-FF8800?style=flat-square&logoColor=white)
+ 
+**Defense & Network**
+ 
+![nftables](https://img.shields.io/badge/nftables-2A2A2A?style=flat-square)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logoColor=white)
+![Pi‑hole](https://img.shields.io/badge/Pi--hole-96060C?style=flat-square&logoColor=white)
+![CrowdSec](https://img.shields.io/badge/CrowdSec-2A2A2A?style=flat-square)
+![Fail2ban](https://img.shields.io/badge/Fail2ban-2A2A2A?style=flat-square)
+![Cowrie](https://img.shields.io/badge/Cowrie%20Honeypot-2A2A2A?style=flat-square)
+![T-Pot](https://img.shields.io/badge/T--Pot-2A2A2A?style=flat-square)
+ 
+**Monitoring & SIEM**
+ 
+[![Monitoring](https://skillicons.dev/icons?i=grafana,prometheus,docker)](https://skillicons.dev)
+ 
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-2A2A2A?style=flat-square)
+![Wazuh](https://img.shields.io/badge/Wazuh-00A9E0?style=flat-square&logoColor=white)
+![Shuffle](https://img.shields.io/badge/Shuffle%20SOAR-2A2A2A?style=flat-square)
+ 
+**AI / ML for Security**
+ 
+[![ML](https://skillicons.dev/icons?i=python,sklearn)](https://skillicons.dev)
+ 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-2A2A2A?style=flat-square)
+![SVM](https://img.shields.io/badge/SVM-2A2A2A?style=flat-square)
+![Isolation Forest](https://img.shields.io/badge/Isolation%20Forest-2A2A2A?style=flat-square)
+ 
+**Infrastructure**
+ 
+[![Infra](https://skillicons.dev/icons?i=docker,linux,raspberrypi,bash,mysql)](https://skillicons.dev)
+ 
+</div>
  
 ---
  
 ## 🚀 Projects
  
-| Project | Description | Stack |
-|---|---|---|
-| [🖧 Pi 5 Security Operations Lab](https://63n713m4n.github.io/#lab) | Full enterprise security stack on Raspberry Pi 5. DNS filtering, VPN, firewall, SSH honeypot, threat intelligence, SIEM, live dashboards. **Running live.** | Shell · Python · Docker |
-| [📡 Rogue Wi-Fi Access Point](https://github.com/63n713m4n/rogue-Wi-Fi-access-point-creator) | Fake AP with captive portal demonstrating credential harvesting. Includes internet spoofing and session logging for security awareness training. | Python |
-| [🤖 ML Security Classifier](https://github.com/63n713m4n/ml-security-classifier) | Network intrusion detection pipeline using Decision Tree, Random Forest, KNN, and SVM. Comparative analysis with feature importance visualization. | Python · scikit-learn |
-| [🐬 Flipper Zero Payload Suite](https://github.com/63n713m4n/flipper-zero-payloads) | BadUSB payload collection for Windows/macOS/Linux — system recon with Discord webhook reporting. Built for authorized assessments. | DuckyScript |
+<div align="center">
+ 
+| Project | Description | Stack | Type |
+|---|---|---|---|
+| [🖧 Pi 5 Security Operations Lab](https://63n713m4n.github.io/#lab) | Enterprise-grade security stack on Raspberry Pi 5. DNS filtering, VPN, firewall, SSH honeypot, SIEM, live dashboards. **Running live 24/7.** | Shell · Python · Docker | 🔵 Defensive |
+| [🤖 ML Security Classifier](https://github.com/63n713m4n/ml-security-classifier) | Network intrusion detection pipeline. Decision Tree, Random Forest, KNN and SVM with comparative analysis and feature importance visualization. | Python · scikit-learn | 🟣 ML/AI |
+| [📡 Rogue Wi-Fi Access Point](https://github.com/63n713m4n/rogue-Wi-Fi-access-point-creator) | Fake AP with captive portal demonstrating credential harvesting, internet spoofing, and session logging. Security awareness training tool. | Python | 🔴 Offensive |
+| [🐬 Flipper Zero Payload Suite](https://github.com/63n713m4n/flipper-zero-payloads) | BadUSB payload collection for Windows/macOS/Linux — system recon reported via Discord webhooks. Built for authorized assessments. | DuckyScript | 🟠 Hardware |
+ 
+</div>
  
 ---
  
-## 🛡 Skills
+## 🖥️ Live Pi Lab — Raspberry Pi 5
  
-**Offense**
+<div align="center">
  
-![Metasploit](https://img.shields.io/badge/-Metasploit-2A2A2A?style=flat-square)
-![nmap](https://img.shields.io/badge/-nmap-2A2A2A?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logoColor=white)
-![Hydra](https://img.shields.io/badge/-Hydra-2A2A2A?style=flat-square)
-![sqlmap](https://img.shields.io/badge/-sqlmap-2A2A2A?style=flat-square)
-![aircrack-ng](https://img.shields.io/badge/-aircrack--ng-2A2A2A?style=flat-square)
-![Flipper Zero](https://img.shields.io/badge/-Flipper%20Zero-FF8800?style=flat-square&logoColor=white)
+| Stat | Value |
+|---|---|
+| 🚫 DNS Domains Blocked | **433,000+** |
+| 🛑 IPs Banned (CrowdSec) | **15,000+** |
+| ⚙️ Services Running | **11** |
+| 💾 Hardware | Raspberry Pi 5 · 8GB RAM · 512GB NVMe |
+| 🌐 Network | Gigabit Ethernet · DuckDNS · WireGuard VPN |
  
-**Defense & Network**
- 
-![nftables](https://img.shields.io/badge/-nftables-2A2A2A?style=flat-square)
-![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&logoColor=white)
-![Pi-hole](https://img.shields.io/badge/-Pi--hole-96060C?style=flat-square&logoColor=white)
-![CrowdSec](https://img.shields.io/badge/-CrowdSec-2A2A2A?style=flat-square)
-![Fail2ban](https://img.shields.io/badge/-Fail2ban-2A2A2A?style=flat-square)
-![Cowrie](https://img.shields.io/badge/-Cowrie%20Honeypot-2A2A2A?style=flat-square)
- 
-**Monitoring & SIEM**
- 
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logoColor=white)
-![Loki](https://img.shields.io/badge/-Loki-2A2A2A?style=flat-square)
-![Wazuh](https://img.shields.io/badge/-Wazuh-00A9E0?style=flat-square&logoColor=white)
- 
-**AI / ML for Security**
- 
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logoColor=white)
-![Pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
- 
-**Infrastructure**
- 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
- 
----
- 
-## 🖥 Live Pi Lab — Raspberry Pi 5
- 
-> **433K+** DNS domains blocked · **15K+** IPs banned via CrowdSec · **11** services running
- 
-My homelab runs a production-grade security operations stack on a Raspberry Pi 5 (8GB, 512GB NVMe). It's not a toy — it's real infrastructure generating real attack data.
+</div>
  
 | Layer | Services |
 |---|---|
-| Network | Pi-hole v6, Unbound (DNSSEC), WireGuard VPN, DuckDNS |
-| Security | nftables, Fail2ban, CrowdSec, Cowrie SSH honeypot |
-| Monitoring | Grafana, Prometheus, Loki + Promtail |
-| Infra | Docker + Portainer, Heimdall |
+| 🌐 Network | Pi-hole v6 · Unbound (DNSSEC) · WireGuard · DuckDNS |
+| 🔐 Security | nftables · Fail2ban · CrowdSec · Cowrie SSH Honeypot |
+| 📊 Monitoring | Grafana · Prometheus · Loki · Promtail |
+| 🐳 Infra | Docker · Portainer · Heimdall |
  
-[View live stats →](https://63n713m4n.github.io/#lab)
+<div align="center">
+ 
+[🔴 View Live Stats →](https://63n713m4n.github.io/#lab)
+ 
+</div>
  
 ---
  
@@ -109,8 +152,26 @@ My homelab runs a production-grade security operations stack on a Raspberry Pi 5
  
 <div align="center">
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=63n713m4n&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=63n713m4n&layout=compact&theme=radical&hide_border=true)
+<a href="https://github.com/63n713m4n">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=63n713m4n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=63n713m4n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
+ 
+<br/><br/>
+ 
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=63n713m4n&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</a>
+ 
+<br/><br/>
+ 
+<a href="https://github.com/63n713m4n">
+  <img src="https://github-profile-trophy.vercel.app/?username=63n713m4n&theme=tokyonight&no-frame=true&row=1&column=7" />
+</a>
+ 
+<br/><br/>
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=63n713m4n&theme=tokyo-night&hide_border=true&area=true" />
  
 </div>
  
@@ -118,9 +179,11 @@ My homelab runs a production-grade security operations stack on a Raspberry Pi 5
  
 ## 📖 Research & Writing
  
-- 📄 [Research Reports](https://63n713m4n.github.io/reports.html) — AI-based threat detection, network defense
-- ✍️ [CTF Writeups](https://63n713m4n.github.io/writeups.html)
-- 📋 [CV](https://63n713m4n.github.io/cv.html)
+| | Link | Topic |
+|---|---|---|
+| 📄 | [Research Reports](https://63n713m4n.github.io/reports.html) | AI-based threat detection · network defense |
+| ✍️ | [CTF Writeups](https://63n713m4n.github.io/writeups.html) | HackTheBox · TryHackMe walkthroughs |
+| 📋 | [CV](https://63n713m4n.github.io/cv.html) | Full background & experience |
  
 ---
  
@@ -128,7 +191,7 @@ My homelab runs a production-grade security operations stack on a Raspberry Pi 5
  
 *Research · Travel · Gaming*
  
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6D4AFF&height=100&section=footer" />
  
 </div>
  
