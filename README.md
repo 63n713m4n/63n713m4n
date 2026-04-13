@@ -4,7 +4,7 @@
  
 <br/>
  
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-63n713m4n.github.io-6D4AFF?style=for-the-badge)](https://63n713m4n.github.io/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-alphonsejoseph.tech-6D4AFF?style=for-the-badge)](https://alphonsejoseph.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alphonse-joseph)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@Al_FonZ_)
 [![Email](https://img.shields.io/badge/ProtonMail-Contact-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:alphonse.joseph@proton.me)
@@ -12,7 +12,7 @@
 <br/>
  
 ![Visitor Count](https://komarev.com/ghpvc/?username=63n713m4n&color=6D4AFF&style=for-the-badge&label=Profile+Views)
-[![Status](https://img.shields.io/badge/🟢%20Open%20To-Pentesting%20%2F%20SOC%20Internship-success?style=for-the-badge)](https://63n713m4n.github.io/#contact)
+[![Status](https://img.shields.io/badge/🟢%20Open%20To-Pentesting%20%2F%20SOC%20Internship-success?style=for-the-badge)](https://alphonsejoseph.tech/#contact)
  
 </div>
  
@@ -110,7 +110,7 @@ class Alphonse:
  
 | Project | Description | Stack | Type |
 |---|---|---|---|
-| [🖧 Pi 5 Security Operations Lab](https://63n713m4n.github.io/#lab) | Enterprise-grade security stack on Raspberry Pi 5. DNS filtering, VPN, firewall, SSH honeypot, SIEM, live dashboards. **Running live 24/7.** | Shell · Python · Docker | 🔵 Defensive |
+| [🖧 Pi 5 Security Operations Lab](https://alphonsejoseph.tech/#lab) | Enterprise-grade security stack on Raspberry Pi 5. DNS filtering, VPN, firewall, SSH honeypot, SIEM, live dashboards. **Running live 24/7.** | Shell · Python · Docker | 🔵 Defensive |
 | [🤖 ML Security Classifier](https://github.com/63n713m4n/ml-security-classifier) | Network intrusion detection pipeline. Decision Tree, Random Forest, KNN and SVM with comparative analysis and feature importance visualization. | Python · scikit-learn | 🟣 ML/AI |
 | [📡 Rogue Wi-Fi Access Point](https://github.com/63n713m4n/rogue-Wi-Fi-access-point-creator) | Fake AP with captive portal demonstrating credential harvesting, internet spoofing, and session logging. Security awareness training tool. | Python | 🔴 Offensive |
 | [🐬 Flipper Zero Payload Suite](https://github.com/63n713m4n/flipper-zero-payloads) | BadUSB payload collection for Windows/macOS/Linux — system recon reported via Discord webhooks. Built for authorized assessments. | DuckyScript | 🟠 Hardware |
@@ -142,7 +142,7 @@ class Alphonse:
  
 <div align="center">
  
-[🔴 View Live Stats →](https://63n713m4n.github.io/#lab)
+[🔴 View Live Stats →](https://alphonsejoseph.tech/#lab)
  
 </div>
  
@@ -181,9 +181,9 @@ class Alphonse:
  
 | | Link | Topic |
 |---|---|---|
-| 📄 | [Research Reports](https://63n713m4n.github.io/reports.html) | AI-based threat detection · network defense |
-| ✍️ | [CTF Writeups](https://63n713m4n.github.io/writeups.html) | HackTheBox · TryHackMe walkthroughs |
-| 📋 | [CV](https://63n713m4n.github.io/cv.html) | Full background & experience |
+| 📄 | [Research Reports](https://alphonsejoseph.tech/reports.html) | AI-based threat detection · network defense |
+| ✍️ | [CTF Writeups](https://alphonsejoseph.tech/writeups.html) | HackTheBox · TryHackMe walkthroughs |
+| 📋 | [CV](https://alphonsejoseph.tech/cv.html) | Full background & experience |
  
 ---
  
