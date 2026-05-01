@@ -23,7 +23,7 @@
 ```python
 class Alphonse:
     name     = "Alphonse Joseph"
-    alias    = "63n713m4n"
+    alias    = "nyxsentinel"
     location = "Sweden 🇸🇪"
     degree   = "MSc Cybersecurity — University West"
     thesis   = "Comparative Evaluation of Open-Source SOAR Tools (2026)"
