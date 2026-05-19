@@ -11,7 +11,7 @@
  
 <br/>
  
-![Visitor Count](https://komarev.com/ghpvc/?username=63n713m4n&color=6D4AFF&style=for-the-badge&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=Nyx-Sentinel&color=6D4AFF&style=for-the-badge&label=Profile+Views)
 [![Status](https://img.shields.io/badge/🟢%20Open%20To-Pentesting%20%2F%20SOC%20Internship-success?style=for-the-badge)](https://alphonsejoseph.tech/#contact)
  
 </div>
@@ -111,9 +111,9 @@ class Alphonse:
 | Project | Description | Stack | Type |
 |---|---|---|---|
 | [🖧 Pi 5 Security Operations Lab](https://alphonsejoseph.tech/#lab) | Enterprise-grade security stack on Raspberry Pi 5. DNS filtering, VPN, firewall, SSH honeypot, SIEM, live dashboards. **Running live 24/7.** | Shell · Python · Docker | 🔵 Defensive |
-| [🤖 ML Security Classifier](https://github.com/63n713m4n/ml-security-classifier) | Network intrusion detection pipeline. Decision Tree, Random Forest, KNN and SVM with comparative analysis and feature importance visualization. | Python · scikit-learn | 🟣 ML/AI |
-| [📡 Rogue Wi-Fi Access Point](https://github.com/63n713m4n/rogue-Wi-Fi-access-point-creator) | Fake AP with captive portal demonstrating credential harvesting, internet spoofing, and session logging. Security awareness training tool. | Python | 🔴 Offensive |
-| [🐬 Flipper Zero Payload Suite](https://github.com/63n713m4n/flipper-zero-payloads) | BadUSB payload collection for Windows/macOS/Linux — system recon reported via Discord webhooks. Built for authorized assessments. | DuckyScript | 🟠 Hardware |
+| [🤖 ML Security Classifier](https://github.com/Nyx-Sentinel/ml-security-classifier) | Network intrusion detection pipeline. Decision Tree, Random Forest, KNN and SVM with comparative analysis and feature importance visualization. | Python · scikit-learn | 🟣 ML/AI |
+| [📡 Rogue Wi-Fi Access Point](https://github.com/Nyx-Sentinel/rogue-Wi-Fi-access-point-creator) | Fake AP with captive portal demonstrating credential harvesting, internet spoofing, and session logging. Security awareness training tool. | Python | 🔴 Offensive |
+| [🐬 Flipper Zero Payload Suite](https://github.com/Nyx-Sentinel/flipper-zero-payloads) | BadUSB payload collection for Windows/macOS/Linux — system recon reported via Discord webhooks. Built for authorized assessments. | DuckyScript | 🟠 Hardware |
  
 </div>
  
@@ -152,26 +152,26 @@ class Alphonse:
  
 <div align="center">
  
-<a href="https://github.com/63n713m4n">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=63n713m4n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=63n713m4n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<a href="https://github.com/Nyx-Sentinel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nyx-Sentinel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyx-Sentinel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </a>
  
 <br/><br/>
  
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=63n713m4n&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=Nyx-Sentinel&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </a>
  
 <br/><br/>
  
-<a href="https://github.com/63n713m4n">
-  <img src="https://github-profile-trophy.vercel.app/?username=63n713m4n&theme=tokyonight&no-frame=true&row=1&column=7" />
+<a href="https://github.com/Nyx-Sentinel">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nyx-Sentinel&theme=tokyonight&no-frame=true&row=1&column=7" />
 </a>
  
 <br/><br/>
  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=63n713m4n&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyx-Sentinel&theme=tokyo-night&hide_border=true&area=true" />
  
 </div>
  
